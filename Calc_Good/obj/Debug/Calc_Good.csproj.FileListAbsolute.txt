@@ -1,0 +1,15 @@
+C:\TEST\Calc_Good\obj\Debug\Calc_Good.csproj.AssemblyReference.cache
+C:\TEST\Calc_Good\obj\Debug\MainWindow.g.cs
+C:\TEST\Calc_Good\obj\Debug\App.g.cs
+C:\TEST\Calc_Good\obj\Debug\Calc_Good_MarkupCompile.cache
+C:\TEST\Calc_Good\obj\Debug\Calc_Good_MarkupCompile.lref
+C:\TEST\Calc_Good\bin\Debug\Calc_Good.exe.config
+C:\TEST\Calc_Good\bin\Debug\Calc_Good.exe
+C:\TEST\Calc_Good\bin\Debug\Calc_Good.pdb
+C:\TEST\Calc_Good\obj\Debug\MainWindow.baml
+C:\TEST\Calc_Good\obj\Debug\Calc_Good.g.resources
+C:\TEST\Calc_Good\obj\Debug\Calc_Good.Properties.Resources.resources
+C:\TEST\Calc_Good\obj\Debug\Calc_Good.csproj.GenerateResource.cache
+C:\TEST\Calc_Good\obj\Debug\Calc_Good.csproj.CoreCompileInputs.cache
+C:\TEST\Calc_Good\obj\Debug\Calc_Good.exe
+C:\TEST\Calc_Good\obj\Debug\Calc_Good.pdb
